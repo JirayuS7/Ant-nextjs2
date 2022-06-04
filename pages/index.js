@@ -23,11 +23,11 @@ export default function Home() {
 
 
 
-    <div  >
+    <div>
 
-<Script   src="/static/aos/aos.js"></Script>
+      
         <Script   src="/static/bootstrap/js/bootstrap.bundle.min.js"></Script>
-        
+        <Script   src="/static/aos/aos.js"></Script>
         <Script   src="/static/isotope-layout/isotope.pkgd.min.js"></Script>
         <Script   src="/static/php-email-form/validate.js"></Script>
         <Script    src="/static/swiper/swiper-bundle.min.js"></Script>
