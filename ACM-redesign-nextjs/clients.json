@@ -1,0 +1,58 @@
+{
+    "Company 1" : {
+        "url" : "https://google.com",
+        "image" : "/img/clients/client-1.png",
+        "name" : "Company 1"  
+        
+
+    },
+    "Company 2" : {
+
+        "url" : "https://google.com",
+        "image" : "img/clients/client-2.png",
+        "name" : "Company 2"  
+        
+
+    },
+
+    "Company 3" : {
+
+        "url" : "https://google.com",
+        "image" : "img/clients/client-3.png",
+        "name" : "  Company 3"  
+        
+
+    },
+
+    "Company 4" : {
+
+        "url" : "https://google.com",
+        "image" : "img/clients/client-4.png",
+        "name" : "  Company 4"  
+        
+
+    },
+    "Company 5" : {
+
+        "url" : "https://google.com",
+        "image" : "img/clients/client-5.png",
+        "name" : "  Company 5"  
+        
+
+    },
+    "Company 6" : {
+
+        "url" : "https://google.com",
+        "image" : "img/clients/client-6.png",
+        "name" : "  Company 6"  
+        
+
+    }
+     
+     
+     
+     
+
+
+
+}
