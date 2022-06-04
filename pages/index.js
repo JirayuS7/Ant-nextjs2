@@ -35,19 +35,21 @@ export default function Home() {
         <link rel="icon" href="/img/fav-32.png" />
 
 
-        <script   src="/static/aos/aos.js"></script>
-        <script   src="/static/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script   src="/static/isotope-layout/isotope.pkgd.min.js"></script>
-        <script   src="/static/php-email-form/validate.js"></script>
-        <script    src="/static/swiper/swiper-bundle.min.js"></script>
-        <script   src="/static/waypoints/noframework.waypoints.js"></script>
-        <script   src="/static/main.js"></script>
- 
+   
    
       
    
      
       </Head>
+
+        <Script    src="/static/aos/aos.js"></Script>
+        <Script    src="/static/bootstrap/js/bootstrap.bundle.min.js"></Script>
+        <Script    src="/static/isotope-layout/isotope.pkgd.min.js"></Script>
+        <Script    src="/static/php-email-form/validate.js"></Script>
+        <Script     src="/static/swiper/swiper-bundle.min.js"></Script>
+        <Script    src="/static/waypoints/noframework.waypoints.js"></Script>
+        <Script    src="/static/main.js"></Script>
+ 
       
 
       <Header   />
