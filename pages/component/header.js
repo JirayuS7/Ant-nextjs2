@@ -64,7 +64,7 @@ const Header = () => {
 
                     <h1 className="logo me-auto"> 
                     <Link href="/" className="logo me-auto">  
-                    <Image src="/../public/img/logo.webp"  width={60} height={60}  className="img-fluid" />
+                    <Image src="/img/logo.webp"  width={60} height={60}  className="img-fluid" />
                    </Link>
                    <Link href="/"><a >ANT COMMERCE</a></Link>
                    </h1>

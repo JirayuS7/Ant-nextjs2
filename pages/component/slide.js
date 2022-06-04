@@ -26,7 +26,7 @@ const Slides = () => {
                             </div>
                         </div>
                         <div className="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-                            <Image src='/../public/img/hero-img.png' width={780} height={646} className="img-fluid animated" alt="" />
+                            <Image src='/img/hero-img.png' width={780} height={646} className="img-fluid animated" alt="" />
 
                         </div>
                     </div>
